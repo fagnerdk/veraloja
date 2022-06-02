@@ -64,6 +64,15 @@ nav a{
     padding: 10px;
 
 }
+#i0{
+    background-color:#385998;
+    color: antiquewhite;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    cursor: pointer;
+}
 #i1{
     background-color:#385998;
     color: antiquewhite;
