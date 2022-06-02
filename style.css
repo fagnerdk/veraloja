@@ -425,7 +425,7 @@ footer{
     background-size: cover;
 }
 /*mobil*/
-@media (max-width:311px){
+@media (max-width:450px){
     header {
         background-color: rgb(238, 43, 228);
         color: rgb(238, 43, 228) ;
