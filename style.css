@@ -91,10 +91,11 @@ nav a{
   position: relative;
   animation: mymove 5s infinite;
 }
+
 @keyframes mymove {
   from {left: 0px;}
   to {left: 300px;}
-}
+  }
 /*anucio*/
 /*gride*/
 .container{
@@ -426,7 +427,7 @@ footer{
 }
 /*mobil*/
 @media (max-width:450px){
-    header {
+   header {
         background-color: rgb(238, 43, 228);
         color: rgb(238, 43, 228) ;
         text-align: center;
@@ -476,7 +477,9 @@ footer{
         background-image:linear-gradient(30deg,#fed373 4%,#f15245 30%,#d92e7f 62%,#9b36b7 85%);
     }
     /*gride*/
-.container{
+.container{   
+
+
     background-color: rgb(129, 217, 252);
     color: aliceblue;
     min-width: 40vh;
