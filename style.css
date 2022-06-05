@@ -447,14 +447,14 @@ footer{
     nav li{
         color:rgb(238, 43, 228) ;
        margin: 1px ;
-       display: inline;
+       display: inline ;
       font-size: 1em;
       padding: 1px;
       display: flex ;
     }
     nav a{
-        color:rgb(238, 43, 228) ;
-        
+        color: rgb(238, 43, 228);
+       
     }
     #i1{
         background-color:#385998;
