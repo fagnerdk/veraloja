@@ -1,5 +1,10 @@
-var valo1=0
-document.getElementById("v1").innerHTML=valo1;
+var na0 = document.getElementById("v1").innerHTML=8;
+function myFunction(){
+    var na1 = document.getElementById("mynumber").value;
+    var xn0 = na1 * na0 ;
+    document.getElementById("n1").innerHTML = xn0;
+ 
+}
 var valo2=0
 document.getElementById("v2").innerHTML=valo2;
 var valo3=0
