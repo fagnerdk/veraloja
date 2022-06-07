@@ -1,8 +1,7 @@
-var na0 = document.getElementById("v1").innerHTML=8;
+document.getElementById("v1").innerHTML=valo2;
 function myFunction(){
-    var na1 = document.getElementById("mynumber").value;
-    var xn0 = na1 * na0 ;
-    document.getElementById("n1").innerHTML = xn0;
+    var nn1 = document.getElementById("mynumber").value;
+    document.getElementById("pç").innerHTML = nn1;
  
 }
 var valo2=0
