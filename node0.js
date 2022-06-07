@@ -1,10 +1,6 @@
 var valo1=0
-document.getElementById("v1").innerHTML=valo2;
-function myFunction(){
-    var nn1 = document.getElementById("mynumber").value;
-    document.getElementById("pç").innerHTML = nn1;
- 
-}
+document.getElementById("v1").innerHTML=valo1;
+
 var valo2=0
 document.getElementById("v2").innerHTML=valo2;
 var valo3=0
