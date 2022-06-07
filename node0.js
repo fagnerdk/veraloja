@@ -1,3 +1,4 @@
+var valo1=0
 document.getElementById("v1").innerHTML=valo2;
 function myFunction(){
     var nn1 = document.getElementById("mynumber").value;
