@@ -1,4 +1,4 @@
-var valo1=window.document.getElementById('text,sb1').value ;
+var valo1=window.document.getElementById('sb2').value ;
 document.getElementById("v1").innerHTML=valo1;
 var valo2=0
 document.getElementById("v2").innerHTML=valo2;
