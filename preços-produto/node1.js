@@ -1,6 +1,6 @@
-var valo10=0
+var valo10=150
 document.getElementById("v10").innerHTML=valo10;
-var valo11=0
+var valo11=180
 document.getElementById("v11").innerHTML=valo11;
 var valo12=0
 document.getElementById("v12").innerHTML=valo12;
