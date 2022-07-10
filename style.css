@@ -60,6 +60,15 @@ nav a{
    
 
 }
+#i0{
+    background-color:#eb0b0b;
+    color: antiquewhite;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    cursor: pointer;
+}
 #i1{
     background-color:#385998;
     color: antiquewhite;
@@ -457,6 +466,15 @@ footer{
         color: rgb(238, 43, 228);
        
     }
+    #i0{
+        background-color:#eb0b0b;
+            color: antiquewhite;
+            border-radius: 50%;
+            height: 30px;
+            width: 30px;
+            line-height: 30px;
+            cursor: pointer;
+        }
     #i1{
         background-color:#385998;
         color: antiquewhite;
