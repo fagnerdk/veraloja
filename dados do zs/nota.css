@@ -1,0 +1,109 @@
+form{
+    background-color: rgb(216, 130, 190);
+    width: 320px;
+    height: 320px;
+    margin-left: 281px;
+     
+   
+}
+#nt{
+    margin-top: -80px;
+}
+.n{
+   
+   margin-left: 30px;
+    color: rgb(15, 10, 10);
+}
+#nome{
+    margin-top: 60px;
+}
+.n1{
+  
+    margin-left: 30px;
+     color: rgb(15, 10, 10);
+}
+#email{
+    margin-top: 5px;
+}
+.n2{
+   
+    margin-left: 8px;
+     color: rgb(15, 10, 10);
+}
+#Telefone{
+    margin-top: 5px;
+}
+.n3{
+   
+    margin-left: 33px;
+     color: rgb(15, 10, 10);
+}
+.qtd{
+   margin-top: 5px;
+    margin-left: 33px;
+    color: rgb(15, 10, 10);
+}
+#data{
+    margin-top: 5px;
+}
+button{
+    margin-left: 200px;
+    margin-top: -8px;
+    width: 50px;
+    border-radius: 38px;
+    background-color: rgb(0, 255, 255);
+}
+.imag{
+    background-color: blue;
+    width: 320px;
+    height: 320px;
+    margin-top: -369px;
+    margin-left: 10px;
+}
+.imag{
+   background-image: url("../img/img-10.jpg");
+   background-position: center;
+    background-size: cover;
+    
+}
+.by{
+    margin-left: 220px;
+    margin-top: 110px;
+}
+#preço{
+    background-color: rgb(243, 240, 235);
+    color: black;
+    width: 50px;
+    height: 20px;
+    margin-left:140px ;
+    margin-top: 20px;
+    
+}
+.bt{
+    margin-top: -19px;
+}
+.RS{
+    color: black;
+    margin-left: 80Px;
+    margin-top: -18px;
+}
+.contenia{
+    
+    width: 520px;
+    height: 400px;
+    margin-left: 400px;
+    margin-top: -350px;
+}
+#foto{
+   background-image: url("../0.jpg");
+   background-position: center;
+   background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+.text{
+    margin-top: -189px;
+    margin-left: 220px;
+    color: black;
+    margin-top:-350px ;
+}
