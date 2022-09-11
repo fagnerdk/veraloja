@@ -1,9 +1,11 @@
-let a1 = document.getElementById('RS').innerHTML = 20;
-function myFunction( ) {
-  var x = document.getElementById("myNumber").value;
-  var numer = a1;
- document.getElementById("preço").innerHTML = x*numer ;
- 
+var preça =document.getElementsByClassName("RS")[0].innerHTML = "R$";
+var preço = document.getElementById("vt").innerHTML = 22 ;
+
+function myFunction(){
+var nume = document.getElementById("myNumber").value
+var x = nume * preço ;
+document.getElementById("preço").innerHTML = x;
+console.log(nume)
 }
 
 

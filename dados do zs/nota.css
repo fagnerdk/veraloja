@@ -42,6 +42,7 @@ form{
    margin-top: 5px;
     margin-left: 33px;
     color: rgb(15, 10, 10);
+    
 }
 #data{
     margin-top: 5px;
@@ -77,6 +78,7 @@ button{
     height: 20px;
     margin-left:140px ;
     margin-top: 20px;
+    text-align: center;
     
 }
 .bt{
@@ -87,23 +89,29 @@ button{
     margin-left: 80Px;
     margin-top: -18px;
 }
-.contenia{
-    
-    width: 520px;
-    height: 400px;
-    margin-left: 400px;
-    margin-top: -350px;
-}
-#foto{
-   background-image: url("../0.jpg");
+
+#foto-pt{
+   /*background-image: url("../0.jpg");*/
+   margin-left: 4px;
+   margin-top: -15px;
    background-position: center;
    background-size: cover;
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
+    background-color: rgb(255, 0, 43);
 }
 .text{
-    margin-top: -189px;
-    margin-left: 220px;
-    color: black;
+   background-color: rgb(42, 165, 73);
+   margin-top: -23px;
+    margin-left: 109px;
+    color: rgb(8, 5, 5);
     margin-top:-350px ;
+    width: 20px;
+    padding: 50px;
+    text-align: center;
+}
+#vt{
+    color: black;
+    margin-left: 110px;
+    margin-top: -19px;
 }
