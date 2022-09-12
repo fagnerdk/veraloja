@@ -1,12 +1,15 @@
-var preça =document.getElementsByClassName("RS")[0].innerHTML = "R$";
+var preça = document.getElementsByClassName("RS")[0].innerHTML = "R$";
 var preço = document.getElementById("vt").innerHTML = 22 ;
-
+// ide do produto pagina1
+var pg1 = document.getElementById("pg1-a1").value;
+var pg1 = "22"
 function myFunction(){
-var nume = document.getElementById("myNumber").value
-var x = nume * preço ;
+var nume = document.getElementById("QTD").value
+var x =  nume * preço  ;
 document.getElementById("preço").innerHTML = x;
-console.log(nume)
+console.log(x)
 }
+console.log(pg1)
 
 
 var pga1 = '../dados do zs/KWAI.jpg';
