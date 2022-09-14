@@ -1,0 +1,91 @@
+.shope_pg1{
+    text-align: center;
+    background-color:  rgb(223, 72, 2);
+    border-radius: 5px;
+    height: 200px;
+    width: 200px;   
+    margin-top: -148px;
+    margin-left: 790px;
+}
+#shopee{
+    text-decoration: none;
+    margin-top: 2px;
+    margin-left: 2px;
+    border-radius: 30px;
+    background-image: url("https://th.bing.com/th/id/OIP.o4ZNW3gIG-WAGnwT7lqH2gHaEi?w=275&h=180&c=7&r=0&o=5&pid=1.7");
+    background-position: center;
+    background-size: cover;
+   width: 196px;
+   height: 160px
+   
+}
+@media screen and (min-width: 400px){
+    .shope_pg1{
+        margin-top: 2px;
+        margin-left: 90px;
+        text-align: center;
+        background-color:  rgb(223, 72, 2);
+        border-radius: 5px;
+        height: 200px;
+        width: 200px;
+       
+    }
+    #shopee{
+        text-decoration: none;
+        margin-top: 2px;
+        margin-left: 2px;
+        border-radius: 30px;
+        background-image: url("https://th.bing.com/th/id/OIP.o4ZNW3gIG-WAGnwT7lqH2gHaEi?w=275&h=180&c=7&r=0&o=5&pid=1.7");
+        background-position: center;
+        background-size: cover;
+        width: 196px;
+        height: 160px
+    } 
+}
+@media screen and (min-width:390px) {
+    .shope_pg1{
+        margin-top: 2px;
+        margin-left: 90px;
+        text-align: center;
+        background-color:  rgb(223, 72, 2);
+        border-radius: 5px;
+        height: 200px;
+        width: 200px;
+       
+    }
+    #shopee{
+        text-decoration: none;
+        margin-top: 2px;
+        margin-left: 2px;
+        border-radius: 30px;
+        background-image: url("https://th.bing.com/th/id/OIP.o4ZNW3gIG-WAGnwT7lqH2gHaEi?w=275&h=180&c=7&r=0&o=5&pid=1.7");
+        background-position: center;
+        background-size: cover;
+        width: 196px;
+        height: 160px
+    } 
+}
+@media (max-width:375px ) {
+    .shope_pg1{
+        margin-top: 2px;
+        margin-left: 90px;
+        text-align: center;
+        background-color:  rgb(223, 72, 2);
+        border-radius: 5px;
+        height: 200px;
+        width: 200px;
+       
+    }
+    #shopee{
+        text-decoration: none;
+        margin-top: 2px;
+        margin-left: 2px;
+        border-radius: 30px;
+        background-image: url("https://th.bing.com/th/id/OIP.o4ZNW3gIG-WAGnwT7lqH2gHaEi?w=275&h=180&c=7&r=0&o=5&pid=1.7");
+        background-position: center;
+        background-size: cover;
+        width: 196px;
+        height: 160px
+    } 
+
+}
