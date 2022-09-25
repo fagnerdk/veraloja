@@ -6,6 +6,9 @@ form{
      
    
 }
+h1{
+    font-size: 50px;
+}    
 #nt{
     margin-top: -80px;
 }
@@ -41,7 +44,8 @@ form{
 .qtd{
    margin-top: 5px;
     margin-left: 33px;
-    color: rgb(15, 10, 10);
+    color: rgb(8, 8, 8);
+    
     
 }
 #data{

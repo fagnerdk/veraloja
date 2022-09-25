@@ -1,7 +1,7 @@
 
 //fuçoes da pasta do cadstro id
 
-export var pagina1=['a','b','c','d','f','g','h','i','g','l'];
+var pagina1=['a','b','c','d','f','g','h','i','g','l'];
 
 let pga0 = pagina1[0]
 let pgb1 = pagina1[1]
@@ -25,6 +25,6 @@ pgi7 = ["a1","b2","c3"]
 pgg8 = ["a1","b2","c3"]
 pgl9 = ["a1","b2","c3"]
 
-//console.log();
+//console.log(pga0[0]);
 
 
