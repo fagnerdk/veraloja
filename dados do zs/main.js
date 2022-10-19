@@ -49,12 +49,6 @@ document.getElementById("fota1").src = pga1;
 var pga2= pga1;
 document.getElementById("fota2").src = pga2
 
-/*var somab = function(a,b){
-    return a+b
-};
-
-
-module.exports = somab;*/
 
 
 

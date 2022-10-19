@@ -17,6 +17,13 @@ document.getElementById("v8").innerHTML=valo8;
 var valo9=20
 document.getElementById("v9").innerHTML=valo9;*/
 
-var xu = require('./dados do zs/main');
+/*var xu = require('./dados do zs/main');
 console.log(xu(4,4));
-console.log('hhhh');
+console.log('hhhh');*/
+
+var somab = function(a){
+    return a
+};
+
+
+module.exports = somab;
