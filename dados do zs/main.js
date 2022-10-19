@@ -29,14 +29,14 @@ console.log(id_pga0a1);
 
 
 const rs = document.getElementsByClassName("RS")[0].innerHTML = "R$";
-var produto = document.getElementById("vt").innerHTML = idpga0a1 ;
+var produto = document.getElementById("vt").innerHTML =idpga0a1;
  
 // ide do produto pagina1
 var pg1 = document.getElementById("pg1-a1");
- //pg1 =pga0[1];
+// pg1 =pga0[1];
 
 
-function myFunction(){
+ function myFunction(){
 var nume = document.getElementById("QTD").value;
 var valo = produto ;
 var x =  nume * valo  ;
@@ -44,16 +44,17 @@ document.getElementById("preço").innerHTML = x;
 console.log(x);
 };
 
-
 var pga1 = '../dados do zs/KWAI.jpg';
 document.getElementById("fota1").src = pga1;
 var pga2= pga1;
 document.getElementById("fota2").src = pga2
 
+/*var somab = function(a,b){
+    return a+b
+};
 
 
-
-
+module.exports = somab;*/
 
 
 
