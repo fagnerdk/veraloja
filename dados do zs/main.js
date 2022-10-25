@@ -1,3 +1,4 @@
+/*
 var pagina1=['a','b','c','d','f','g','h','i','g','l'];
 
 let pga0 = pagina1[0]
@@ -5,11 +6,11 @@ let pgb1 = pagina1[1]
 let pgc2 = pagina1[2]
 let pgd3 = pagina1[3]
 let pgf4 = pagina1[4]
-let pgg5 = pagina1[5]
+let pgg5 = pagina1[5]                        
 let pgh6 = pagina1[6]
 let pgi7 = pagina1[7]
 let pgg8 = pagina1[8]
-let pgl9 = pagina1[9]
+let pgl9 = pagina1[9]                   // nao esta en osso
 
 pga0 = ["a1","c2","c3"]
 pgb1 = ["a1","b2","c3"]
@@ -21,7 +22,7 @@ pgh6 = ["a1","b2","c3"]
 pgi7 = ["a1","b2","c3"]
 pgg8 = ["a1","b2","c3"]
 pgl9 = ["a1","b2","c3"]
- 
+
 // id
 const idpga0a1 = 44 ;
 const id_pga0a1 = pga0[0]= "idpga0a1:" + "" + idpga0a1;
@@ -44,10 +45,12 @@ document.getElementById("preço").innerHTML = x;
 console.log(x);
 };
 
+
+// anucio
 var pga1 = '../dados do zs/KWAI.jpg';
 document.getElementById("fota1").src = pga1;
 var pga2= pga1;
-document.getElementById("fota2").src = pga2
+document.getElementById("fota2").src = pga2*/
 
 
 

@@ -28,3 +28,6 @@ pgl9 = ["a1","b2","c3"]
 //console.log(pga0[0]);
 
 
+// nao esta en osso
+
+
