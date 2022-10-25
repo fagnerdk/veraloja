@@ -2,16 +2,16 @@
 
 const numero = ['a','b','c','d','f','g','h','i','g','l'];
 
- numero[0] = 22;
- numero[1] = 4 ;
- numero[2] = 5 ;
- numero[3] = 8 ;
- numero[4] = 9 ;
- numero[5] = 10 ;
- numero[6] = 16 ;
- numero[7] = 23 ;
- numero[8] = 45 ;
- numero[9] = 23 ;
+ numero[0] = 20;
+ numero[1] = 20 ;
+ numero[2] = 20 ;
+ numero[3] = 20 ;
+ numero[4] = 20 ;
+ numero[5] = 20 ;
+ numero[6] = 20 ;
+ numero[7] = 20 ;
+ numero[8] = 20 ;
+ numero[9] = 220 ;
 
 export default numero;
 
