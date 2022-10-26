@@ -11,7 +11,7 @@ const numero = ['a','b','c','d','f','g','h','i','g','l'];
  numero[6] = 20 ;
  numero[7] = 20 ;
  numero[8] = 20 ;
- numero[9] = 220 ;
+ numero[9] = 22 ;
 
 export default numero;
 
