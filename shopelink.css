@@ -19,6 +19,12 @@
    height: 160px
    
 }
+#contato{
+    /*background-color: #385998;*/
+    color: #f15245;
+    margin-left: -30px;
+    width: 300px;
+}
 @media screen and (min-width: 400px){
     .shope_pg1{
         margin-top: 2px;

@@ -24,7 +24,7 @@ pgg8 = ["a1","b2","c3"]
 pgl9 = ["a1","b2","c3"]
 
 // id
-const idpga0a1 = 44 ;
+const idpga0a1 = 20 ;
 const id_pga0a1 = pga0[0]= "idpga0a1:" ;
 console.log(id_pga0a1);
 
@@ -41,21 +41,21 @@ var pg1 = document.getElementById("pg1-a1");
 var nume = document.getElementById("QTD").value;
 //var valo = produto ;
 var x =  nume * idpga0a1  ;
-if (x  >'44'){
+if (x  >idpga0a1){
     document.getElementById("preço").innerHTML = x;
     console.log(" ok")
   }
-   else if(x =="44"){
+   else if(x ==idpga0a1){
     document.getElementById("preço").innerHTML = x;
      
       console.log("ok")
   }
   else{
     document.getElementById("preço").innerHTML = 'digite';
-    alert('oi')
+    alert('Ola por favo  digite a quantidade ou volte au inicio')
     console.log("aaaaa")
   }
-
+  
  
 //document.getElementById("preço").innerHTML = x;
 //console.log(x);
@@ -66,7 +66,7 @@ if (x  >'44'){
 var pga1 = '../dados do zs/KWAI.jpg';
 document.getElementById("fota1").src = pga1;
 var pga2= pga1;
-document.getElementById("fota2").src = pga2
+document.getElementById("fota2").src = pga2;
 
 
 

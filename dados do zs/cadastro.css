@@ -104,7 +104,12 @@ nav a{
   position: relative;
   animation: mymove 5s infinite;
 }
-
+#contato{
+    /*background-color: #385998;*/
+    color: #f15245;
+    margin-left: -30px;
+    width: 300px;
+}
 @keyframes mymove {
   from {left: 0px;}
   to {left: 300px;}

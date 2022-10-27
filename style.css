@@ -434,6 +434,12 @@ footer{
     background-position: center;
     background-size: cover;
 }
+#contato{
+    /*background-color: #385998;*/
+    color: #f15245;
+    margin-left: -30px;
+    width: 300px;
+}
 /*mobil*/
 @media (max-width:450px){
    header {
