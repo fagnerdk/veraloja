@@ -178,7 +178,7 @@ nav a{
         justify-content: space-between;
         align-items: center;
         
-        background-image: url('0.jpg');
+        background-image: url('/0.jpg');
         background-position: center;
         background-size: cover;
         

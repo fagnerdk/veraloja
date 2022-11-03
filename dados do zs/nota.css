@@ -139,3 +139,147 @@ button{
     margin-left: 200px;
     margin-top: -44px;
 }
+@media (max-width:450px){
+    form{
+        background-color: rgb(216, 130, 190);
+        width: 320px;
+        height: 330px;
+        margin-left: 140px;
+         
+       
+    }
+    h1{
+        font-size: 25px;
+    }    
+    #nt{
+        margin-top: -80px;
+    }
+    .n{
+       
+       margin-left: 30px;
+        color: rgb(15, 10, 10);
+    }
+    #nome{
+        margin-top: 6px;
+    }
+    .n1{
+      
+        margin-left: 30px;
+         color: rgb(15, 10, 10);
+    }
+    #email{
+        margin-top: 5px;
+    }
+    .n2{
+       
+        margin-left: 8px;
+         color: rgb(15, 10, 10);
+    }
+    #Telefone{
+        margin-top: 5px;
+    }
+    .n3{
+       
+        margin-left: 33px;
+         color: rgb(15, 10, 10);
+    }
+    .qtd{
+       margin-top: 5px;
+        margin-left: 33px;
+        color: rgb(8, 8, 8);
+        
+        
+    }
+    #data{
+        margin-top: 5px;
+    }
+    button{
+        margin-left: 200px;
+        margin-top: -8px;
+        width: 50px;
+        border-radius: 38px;
+        background-color: rgb(0, 255, 255);
+    }
+    #bt2{
+        background-color: rgb(255, 0, 0);
+        margin-left: 30px;
+        width: 140px;
+        margin-top: 15px;
+        padding: 2px;
+        border-radius: 30px;
+    }
+    .imag{
+        background-color: blue;
+        width: 190px;
+        height: 190px;
+        margin-top: -370px;
+        margin-left: 1px;
+    }
+    .imag{
+        background-image: url("/img/img-1.jpg");
+        background-position: center;
+         background-size: cover;
+        
+    }
+    .by{
+        margin-left: 220px;
+        margin-top: 110px;
+    }
+    #preço{
+        background-color: rgb(243, 240, 235);
+        color: black;
+        width: 50px;
+        height: 20px;
+        margin-left:140px ;
+        margin-top: 45px;
+        text-align: center;
+        
+    }
+    .bt1{
+      
+        margin-top: -19px;
+    }
+    
+    .RS{
+        color: black;
+        margin-left: 80Px;
+        margin-top: -15px;
+    }
+    #foto-pt{
+       background-image: url("./km.jpg");
+       margin-left: 4px;
+       margin-top: -15px;
+       background-position: center;
+       background-size: cover;
+        height: 150px;
+        width: 150px;
+        background-color: rgb(255, 0, 43);
+    }
+    .text{
+       background-color: rgb(42, 165, 73);
+       margin-top: -23px;
+        margin-left: 109px;
+        color: rgb(17, 16, 16);
+        margin-top:-350px ;
+        width: 20px;
+        padding: 50px;
+        text-align: center;
+    }
+    #vt{
+        color: black;
+        margin-left: 110px;
+        margin-top: -20px;
+    }
+    .lin{
+      
+        color: rgb(12, 9, 9);
+        margin-left: 100px;
+        margin-top: 400px;
+    }
+    #id{
+        color: black;
+        margin-left: 200px;
+        margin-top: -44px;
+    }
+    
+}
