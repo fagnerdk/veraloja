@@ -92,6 +92,15 @@ nav a{
     cursor: pointer;
     background-image:linear-gradient(30deg,#fed373 4%,#f15245 30%,#d92e7f 62%,#9b36b7 85%);
 }
+#i3{
+    background-color:#2cda1d;
+    color: antiquewhite;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    cursor: pointer;
+}
 .pl{
     background-color: rgb(241, 34, 34);
     color: rgb(3, 3, 3);
