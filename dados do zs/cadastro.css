@@ -81,6 +81,7 @@ nav a{
     width: 40px;
     line-height: 40px;
     cursor: pointer;
+    
 }
 #i2{
    
@@ -149,7 +150,7 @@ nav a{
     color: aliceblue;
     min-height: 1200px;
     margin: 0 auto;
-
+  
 }
 .pg{
     display: flex; 
@@ -167,7 +168,7 @@ nav a{
 /*foote*/
 .foote{
     background-color: rgb(129, 217, 252) ;
-   
+    
     padding: 40px;
     color: rgb(238, 40, 228);
     text-align: center;
@@ -202,7 +203,7 @@ nav a{
        display: inline;
       font-size: 1em;
       padding: 1px;
-      display: flex ;
+      display: flex;/*ok*/
     }
     #i0{
     background-color:#eb0b0b;
