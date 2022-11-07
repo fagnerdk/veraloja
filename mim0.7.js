@@ -9,3 +9,4 @@ document.getElementById("v69").innerHTML=numero[5];
 document.getElementById("v70").innerHTML=numero[6];
 document.getElementById("v71").innerHTML=numero[7];
 document.getElementById("v72").innerHTML=numero[8];
+
