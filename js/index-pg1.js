@@ -1,17 +1,17 @@
-
+var rs = "R$"
 
 const numero = ['a','b','c','d','f','g','h','i','g','l'];
 
- numero[0] = 20;
- numero[1] = 20 ;
- numero[2] = 20 ;
- numero[3] = 20 ;
- numero[4] = 20 ;
- numero[5] = 20 ;
- numero[6] = 20 ;
- numero[7] = 20 ;
- numero[8] = 20 ;
- numero[9] = 20 ;
+ numero[0] = rs;
+ numero[1] = rs;
+ numero[2] = rs;
+ numero[3] = rs;
+ numero[4] = rs;
+ numero[5] = rs;
+ numero[6] = rs;
+ numero[7] = rs;
+ numero[8] = rs;
+ numero[9] = rs;
 
 
  export default numero;
