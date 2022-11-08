@@ -1,4 +1,4 @@
-var rs = "R$"
+var rs = 20;
 
 const numero = ['a','b','c','d','f','g','h','i','g','l'];
 
