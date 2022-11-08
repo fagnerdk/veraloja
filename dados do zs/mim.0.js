@@ -1,4 +1,4 @@
-import numero from "../js/index-pg1";
+import numero from "./js/index-pg1.js";
 //pagina 1
 document.getElementById("v1").innerHTML=numero[0];
 document.getElementById("v2").innerHTML=numero[1];
