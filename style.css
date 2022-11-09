@@ -467,8 +467,8 @@ footer{
     margin-left: -30px;
     width: 300px;
 }
-/*mobil*/
-@media (max-width:450px){
+/*mobil450*/
+@media (max-width:1000px){
    header {
         background-color: rgb(238, 43, 228);
         color: rgb(238, 43, 228) ;
