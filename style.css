@@ -18,11 +18,18 @@
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     padding: 12px 16px;
     z-index: 1;
+    
 }
 .dropdown:hover .dropdown-content {
     display:block ;
-
+   
     
+}
+.loja{
+    text-decoration: none;
+}
+.loja:hover{
+    color: rgba(0, 0, 0, 0.877);
 }
 /*cabeça*/
 header {
@@ -68,6 +75,7 @@ nav a{
     width: 40px;
     line-height: 40px;
     cursor: pointer;
+   
 }
 #i1{
     background-color:#385998;
@@ -120,6 +128,7 @@ estrela
     color: rgb(3, 3, 3);
     border-radius: 80px;
     padding: 5px;
+    text-decoration: none;
 }
 .mv{
     width: 100px;
@@ -165,6 +174,15 @@ estrela
     border-radius: 8px;
     padding: 4px;
     text-decoration-color: aqua;
+   text-decoration: none;
+}
+.btn:hover{
+    background-color:rgb(243, 179, 240);
+}
+.pgl{
+    
+   
+    text-decoration: none;
 }
 #img-1{
     background-image: url('../img/img-1.jpg');
@@ -442,12 +460,14 @@ estrela
     padding : 40px;
     color: black;
     background-color: aqua;
-    margin-left: auto;
+   margin-left: auto;
+    
 }
 .pg li {
     margin-left: 30px;
     text-align: center;
     display: flex;
+   
 }
 /*foote*/
 footer{
@@ -498,6 +518,12 @@ footer{
     nav a{
         color: rgb(238, 43, 228);
        
+    }
+    .loja{
+        text-decoration: none;
+    }
+    .loja:hover{
+        color: rgba(0, 0, 0, 0.877);
     }
     #i0{
         background-color:#eb0b0b;
@@ -563,6 +589,9 @@ footer{
     padding: 8px;
     text-decoration-color: aqua;
 }
+.btn:hover{
+    background-color:rgb(243, 179, 240);
+}
 .pg{
     display: flex; 
     border: 30px;
@@ -578,6 +607,7 @@ footer{
     
     
 }
+
 /*foote*/
 footer{
     background-color: rgb(129, 217, 252) ;

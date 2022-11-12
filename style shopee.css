@@ -24,6 +24,12 @@
 
     
 }
+.loja{
+    text-decoration: none;
+}
+.loja:hover{
+    color: rgba(0, 0, 0, 0.877);
+}
 /*cabeça*/
 header {
     background-color: rgb(238, 43, 228);
@@ -146,7 +152,10 @@ nav a{
     background-color: aqua;
     border-radius: 8px;
     padding: 4px;
-    text-decoration-color: aqua;
+   text-decoration: none;
+}
+.btn:hover{
+    background-color:rgb(243, 179, 240);
 }
 #img-1{
     background-image: url('https://i.pinimg.com/736x/3a/3c/74/3a3c74a13c66680584e16fa1c1683466.jpg');
@@ -238,6 +247,12 @@ footer{
         color: rgb(238, 43, 228);
        
     }
+    .loja{
+        text-decoration: none;
+    }
+    .loja:hover{
+        color: rgba(0, 0, 0, 0.877);
+    }
     #i0{
         background-color:#eb0b0b;
             color: antiquewhite;
@@ -302,6 +317,9 @@ footer{
     padding: 8px;
     text-decoration-color: aqua;
 }
+.btn:hover{
+    background-color:rgb(243, 179, 240);
+}
 .pg{
     display: flex; 
     border: 30px;
@@ -342,4 +360,4 @@ footer{
 img{
  width: 300px;
  
-}
+}}

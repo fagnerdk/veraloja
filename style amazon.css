@@ -27,7 +27,12 @@
 
     
   }
- 
+  .loja{
+    text-decoration: none;
+}
+.loja:hover{
+    color: rgba(0, 0, 0, 0.877);
+}
 /*cabeça*/
 header {
     background-color: rgb(238, 43, 228);
@@ -152,6 +157,9 @@ nav a{
     padding: 4px;
     text-decoration-color: aqua;
 }
+.btn:hover{
+    background-color:rgb(243, 179, 240);
+}
 #img-1{
     background-image: url('https://m.media-amazon.com/images/I/71v6++e8LvL._AC_SY450_.jpg')
 }
@@ -233,6 +241,12 @@ footer{
       padding: 1px;
       display: flex ;
     }
+    .loja{
+        text-decoration: none;
+    }
+    .loja:hover{
+        color: rgba(0, 0, 0, 0.877);
+    }
     #i0{
     background-color:#eb0b0b;
         color: antiquewhite;
@@ -307,6 +321,9 @@ footer{
     border-radius: 8px;
     padding: 8px;
     text-decoration-color: aqua;
+}
+.btn:hover{
+    background-color:rgb(243, 179, 240);
 }
 .pg{
     display: flex; 
