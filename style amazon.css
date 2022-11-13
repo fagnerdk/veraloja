@@ -200,6 +200,20 @@ nav a{
     text-align: center;
     display: flex;
 }
+.pgl{
+    text-decoration: none;
+    margin-top: 0.4rem;
+   margin-left: 0.6rem;
+}
+.pg_pgl{
+   
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.pg_pgl:hover{
+    background-color:rgb(243, 179, 240);
+}
 /*foote*/
 footer{
     background-color: rgb(129, 217, 252) ;
@@ -339,6 +353,20 @@ footer{
     text-align: center;
     
     
+}
+.pgl{
+    text-decoration: none;
+    margin-top: 0.4rem;
+   margin-left: 0.6rem;
+}
+.pg_pgl{
+   
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.pg_pgl:hover{
+    background-color:rgb(243, 179, 240);
 }
 /*foote*/
 footer{

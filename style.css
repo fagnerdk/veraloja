@@ -180,9 +180,18 @@ estrela
     background-color:rgb(243, 179, 240);
 }
 .pgl{
-    
-   
     text-decoration: none;
+    margin-top: 0.4rem;
+   margin-left: 0.6rem;
+}
+.pg_pgl{
+   
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.pg_pgl:hover{
+    background-color:rgb(243, 179, 240);
 }
 #img-1{
     background-image: url('../img/img-1.jpg');
@@ -607,7 +616,15 @@ footer{
     
     
 }
-
+.pg_pgl{
+   
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.pg_pgl:hover{
+    background-color:rgb(243, 179, 240);
+}
 /*foote*/
 footer{
     background-color: rgb(129, 217, 252) ;

@@ -110,6 +110,20 @@ nav a{
     border-radius: 80px;
     padding: 5px;
 }
+.pgl{
+    text-decoration: none;
+    margin-top: 0.4rem;
+   margin-left: 0.6rem;
+}
+.pg_pgl{
+   
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.pg_pgl:hover{
+    background-color:rgb(243, 179, 240);
+}
 .mv{
     width: 100px;
   height: 100px;
@@ -333,6 +347,20 @@ footer{
     text-align: center;
     
     
+}
+.pgl{
+    text-decoration: none;
+    margin-top: 0.4rem;
+   margin-left: 0.6rem;
+}
+.pg_pgl{
+   
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.pg_pgl:hover{
+    background-color:rgb(243, 179, 240);
 }
 /*foote*/
 footer{
