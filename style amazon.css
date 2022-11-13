@@ -52,6 +52,10 @@ h1{
     font-size: 70px;
     text-shadow: 2px 5px  #2cda1d;
 }
+.h1{
+    color:rgb(238, 43, 228) ;
+    text-decoration: none;
+}
 nav li{
     color:rgb(238, 43, 228) ;
    margin: 15px ;
@@ -244,9 +248,13 @@ footer{
         
     }
     h1{
-        margin: 3px;
-        font-size: 25px;
+        margin: 60px;
+        font-size: 70px;
         text-shadow: 2px 5px  #2cda1d;
+    }
+    .h1{
+        color:rgb(238, 43, 228) ;
+        text-decoration: none;
     }
     nav li{
         color:rgb(238, 43, 228) ;

@@ -50,6 +50,10 @@ h1{
     font-size: 70px;
     text-shadow: 2px 5px  #2cda1d;
 }
+.h1{
+    color:rgb(238, 43, 228) ;
+    text-decoration: none;
+}
 /*anucio*/
 nav li{
     color:rgb(238, 43, 228) ;
@@ -148,12 +152,13 @@ estrela
     color: aliceblue;
     min-width: 60vh;
     padding: 50px;
-    
+  
 }
 .prudutos-container{
     color: aliceblue;
     min-height: 1200px;
     margin:auto;
+    
 
 }
 .card{
@@ -464,10 +469,15 @@ estrela
     background-image: url('../img/img-90.jpg');
 }
 .texto{
-   /* text-align: justify;
-    text-justify: inter-word;*/
+    position: absolute;
+/* background-color: #2cda1d;*/
+ width: 400px;
+ /*height: 10px;*/
  
- 
+ text-align: justify;
+  text-justify: inter-word;
+  word-break: break-all;
+
 }
 .pg{
     display: flex; 
@@ -522,6 +532,10 @@ footer{
         margin: 3px;
         font-size: 25px;
         text-shadow: 2px 5px  #2cda1d;
+    }
+    .h1{
+        color:rgb(238, 43, 228) ;
+        text-decoration: none;
     }
     nav li{
         color:rgb(238, 43, 228) ;
