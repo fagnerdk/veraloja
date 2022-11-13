@@ -48,7 +48,7 @@ header {
 h1{
     margin: 60px;
     font-size: 70px;
-    
+    text-shadow: 2px 5px  #2cda1d;
 }
 /*anucio*/
 nav li{
@@ -463,6 +463,12 @@ estrela
 #img-90{
     background-image: url('../img/img-90.jpg');
 }
+.texto{
+   /* text-align: justify;
+    text-justify: inter-word;*/
+ 
+ 
+}
 .pg{
     display: flex; 
     border: 40px;
@@ -515,6 +521,7 @@ footer{
     h1{
         margin: 3px;
         font-size: 25px;
+        text-shadow: 2px 5px  #2cda1d;
     }
     nav li{
         color:rgb(238, 43, 228) ;
