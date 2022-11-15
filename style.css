@@ -109,24 +109,6 @@ nav a{
     line-height: 40px;
     cursor: pointer;
 }
-/*
-estrela
-
-.rating {
-    unicode-bidi: bidi-override;
-    direction: rtl;
-  }
-  .rating > span {
-    display: inline-block;
-    position: relative;
-    width: 1.1em;
-  }
-  .rating > span:hover:before,
-  .rating > span:hover ~ span:before {
-     content: "\2605";
-     position: absolute;
-  }
-*/
 .pl{
     background-color: rgb(241, 34, 34);
     color: rgb(3, 3, 3);
@@ -176,11 +158,11 @@ estrela
 }
 .valo{
     margin: 8px 0px 8px 0px;
-   /* background-color: #385998;  /*tira*/
+    background-color: #385998;  /*tira*/
     color: #000000;
 }
 .btn0{
-  /*  background-color: #d92e7f; /*tira*/
+    background-color: #d92e7f; /*tira*/
     margin: 8px 0px 8px 0px ;
 }
 .btn{
@@ -493,8 +475,8 @@ estrela
     line-height: 20px; /* espassoda lia */
     color: #f0cc3b;
     flex: 1 0 auto; /* a juste do texto na tela */
-   /* background-color: #b60707;
-    border: 1px solid rgb(10, 8, 8);*/
+    background-color: #b60707;
+    border: 1px solid rgb(10, 8, 8);
     margin: 8px 0px 8px 0px ;
 }
 .texto2{
@@ -510,8 +492,8 @@ estrela
      line-height: 20px; /* espassoda lia */
      color: #3a3935;
      flex: 1 0 auto;/* a juste do texto na tela */
-    /* background-color: #2cda1d;
-     border: 1px solid #000;*/
+     background-color: #2cda1d;
+     border: 1px solid #000;
      margin: 8px 0px 8px 0px ;
      
 }
