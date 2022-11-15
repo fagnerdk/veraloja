@@ -166,6 +166,15 @@ nav a{
     background-size: cover;
     border: 2px solid  rgb(238, 43, 228);
 }
+.valo{
+    margin: 8px 0px 8px 0px;
+  /*  background-color: #385998;  /*tira*/
+    color: #000000;
+}
+.btn0{
+  /*    background-color: #d92e7f; /*tira*/
+      margin: 8px 0px 8px 0px ;
+  }
 .btn{
     background-color: aqua;
     border-radius: 8px;
@@ -202,16 +211,41 @@ nav a{
 #img-9{
     background-image: url('https://cdn.awsli.com.br/600x1000/140/140380/produto/178577040/b179e7125b.jpg');
 }
-.texto{
-    position: absolute;
- /* background-color: #2cda1d;*/
- width: 400px;
- /*height: 10px;*/
- margin: -3px 8px 0px 0px ;
- text-align: justify;
-  text-justify: inter-word;
-  word-break: break-all;
- 
+.texto1{
+   
+    display: inline-block;
+    display: -webkit-box;
+    word-wrap: break-word;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1; /*quantidade de lianha no texto*/
+    font-size: 20px; /* tamanho da letra*/
+    line-height: 20px; /* espassoda lia */
+    color: #f0cc3b;
+    flex: 1 0 auto; /* a juste do texto na tela */
+   /*background-color: #b60707;
+    border: 1px solid rgb(10, 8, 8);*/
+    margin: 8px 0px 8px 0px ;
+}
+.texto2{
+     display: inline-block;
+     display: -webkit-box;
+     word-wrap: break-word;
+     white-space: normal;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     -webkit-box-orient: vertical;
+     -webkit-line-clamp: 2; /*quantidade de lianha no texto*/
+     font-size: 20px; /* tamanho da letra*/
+     line-height: 20px; /* espassoda lia */
+     color: #3a3935;
+     flex: 1 0 auto;/* a juste do texto na tela */
+   /* background-color: #2cda1d;*/
+    /* border: 1px solid #000;*/
+     margin: 8px 0px 8px 0px ;
+     
 }
 .pg{
     display: flex; 
@@ -345,22 +379,59 @@ footer{
     background-size: cover;
     border: 2px solid  rgb(238, 43, 228);
 }
-.texto{
-    position: absolute;
- /* background-color: #2cda1d;*/
- width: 400px;
- /*height: 10px;*/
- margin: -3px 8px 0px 0px ;
- text-align: justify;
-  text-justify: inter-word;
-  word-break: break-all;
- 
+.texto1{
+   
+    display: inline-block;
+    display: -webkit-box;
+    word-wrap: break-word;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1; /*quantidade de lianha no texto*/
+    font-size: 20px; /* tamanho da letra*/
+    line-height: 20px; /* espassoda lia */
+    color: #f0cc3b;
+    flex: 1 0 auto; /* a juste do texto na tela */
+ /*  background-color: #b60707;
+    border: 1px solid rgb(10, 8, 8);*/
+    margin: 8px 0px 8px 0px ;
 }
+.texto2{
+     display: inline-block;
+     display: -webkit-box;
+     word-wrap: break-word;
+     white-space: normal;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     -webkit-box-orient: vertical;
+     -webkit-line-clamp: 2; /*quantidade de lianha no texto*/
+     font-size: 20px; /* tamanho da letra*/
+     line-height: 20px; /* espassoda lia */
+     color: #3a3935;
+     flex: 1 0 auto;/* a juste do texto na tela */
+   /* background-color: #2cda1d;
+     border: 1px solid #000;*/
+     margin: 8px 0px 8px 0px ;
+     
+}
+.valo{
+    margin: 8px 0px 8px 0px;
+  /*background-color: #385998;  /*tira*/
+    color: #000000;
+}
+.btn0{
+     /* background-color: #d92e7f; /*tira*/
+      margin: 8px 0px 8px 0px ;
+  }
 .btn{
     background-color: aqua;
     border-radius: 8px;
-    padding: 8px;
-    text-decoration-color: aqua;
+    padding: 4px;
+   text-decoration: none;
+   color: #000;
+   border: 1px solid#d92e7f;
+  flex: 1 0 auto;
 }
 .btn:hover{
     background-color:rgb(243, 179, 240);
