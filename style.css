@@ -152,7 +152,7 @@ estrela
     color: aliceblue;
     min-width: 60vh;
     padding: 50px;
-  
+  display: flexbox;
 }
 .prudutos-container{
     color: aliceblue;
@@ -174,12 +174,23 @@ estrela
     background-size: cover;
     border: 2px solid  rgb(238, 43, 228);
 }
+.valo{
+    margin: 8px 0px 8px 0px;
+   /* background-color: #385998;  /*tira*/
+    color: #000000;
+}
+.btn0{
+  /*  background-color: #d92e7f; /*tira*/
+    margin: 8px 0px 8px 0px ;
+}
 .btn{
     background-color: aqua;
     border-radius: 8px;
     padding: 4px;
-    text-decoration-color: aqua;
    text-decoration: none;
+   color: #000;
+   border: 1px solid#d92e7f;
+  flex: 1 0 auto;
 }
 .btn:hover{
     background-color:rgb(243, 179, 240);
@@ -468,16 +479,41 @@ estrela
 #img-90{
     background-image: url('../img/img-90.jpg');
 }
-.texto{
-    position: absolute;
-/* background-color: #2cda1d;*/
- width: 400px;
- /*height: 10px;*/
- 
- text-align: justify;
-  text-justify: inter-word;
-  word-break: break-all;
-
+.texto1{
+   
+    display: inline-block;
+    display: -webkit-box;
+    word-wrap: break-word;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1; /*quantidade de lianha no texto*/
+    font-size: 20px; /* tamanho da letra*/
+    line-height: 20px; /* espassoda lia */
+    color: #f0cc3b;
+    flex: 1 0 auto; /* a juste do texto na tela */
+   /* background-color: #b60707;
+    border: 1px solid rgb(10, 8, 8);*/
+    margin: 8px 0px 8px 0px ;
+}
+.texto2{
+     display: inline-block;
+     display: -webkit-box;
+     word-wrap: break-word;
+     white-space: normal;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     -webkit-box-orient: vertical;
+     -webkit-line-clamp: 2; /*quantidade de lianha no texto*/
+     font-size: 20px; /* tamanho da letra*/
+     line-height: 20px; /* espassoda lia */
+     color: #3a3935;
+     flex: 1 0 auto;/* a juste do texto na tela */
+    /* background-color: #2cda1d;
+     border: 1px solid #000;*/
+     margin: 8px 0px 8px 0px ;
+     
 }
 .pg{
     display: flex; 
@@ -613,11 +649,55 @@ footer{
     background-size: cover;
     border: 2px solid  rgb(238, 43, 228);
 }
+.texto1{
+   
+    display: inline-block;
+    display: -webkit-box;
+    word-wrap: break-word;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1; /*quantidade de lianha no texto*/
+    font-size: 1rem; /* tamanho da letra*/
+    line-height: 20px; /* espassoda lia */
+    color: #f0cc3b;
+    flex: 1 0 auto; /* a juste do texto na tela */
+   /* background-color: #b60707;
+    border: 1px solid rgb(10, 8, 8);*/
+}
+.texto2{
+     display: inline-block;
+     display: -webkit-box;
+     word-wrap: break-word;
+     white-space: normal;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     -webkit-box-orient: vertical;
+     -webkit-line-clamp: 2; /*quantidade de lianha no texto*/
+     font-size: 1rem; /* tamanho da letra*/
+     line-height: 20px; /* espassoda lia */
+     color: #3a3935;
+     flex: 1 0 auto;/* a juste do texto na tela */
+     /*background-color: #2cda1d;
+     border: 1px solid #000;*/
+    
+}
+.valo{
+    margin: 8px 0px 8px 0px;
+   /* background-color: #385998;  tira*/
+}
+.btn0{
+   /* background-color: #d92e7f;  tira*/
+    margin: 8px 0px 8px 0px ;
+}
 .btn{
     background-color: aqua;
     border-radius: 8px;
-    padding: 8px;
+    padding: 3px;
     text-decoration-color: aqua;
+    border: 1px solid#d92e7f;
+    margin-top: -20px;
 }
 .btn:hover{
     background-color:rgb(243, 179, 240);
@@ -634,7 +714,7 @@ footer{
 .pg li {
     margin-left: auto;
     text-align: center;
-    
+   
     
 }
 .pg_pgl{
