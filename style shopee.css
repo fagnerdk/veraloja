@@ -180,6 +180,9 @@ nav a{
     border-radius: 8px;
     padding: 4px;
    text-decoration: none;
+   color: #000;
+   border: 1px solid#d92e7f;
+  flex: 1 0 auto;
 }
 .btn:hover{
     background-color:rgb(243, 179, 240);
