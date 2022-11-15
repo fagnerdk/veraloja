@@ -475,9 +475,9 @@ nav a{
     line-height: 20px; /* espassoda lia */
     color: #f0cc3b;
     flex: 1 0 auto; /* a juste do texto na tela */
-    background-color: #b60707;
+    /*background-color: #b60707;
     border: 1px solid rgb(10, 8, 8);
-    margin: 8px 0px 8px 0px ;
+    margin: 8px 0px 8px 0px ;*/
 }
 .texto2{
      display: inline-block;
@@ -492,9 +492,9 @@ nav a{
      line-height: 20px; /* espassoda lia */
      color: #3a3935;
      flex: 1 0 auto;/* a juste do texto na tela */
-     background-color: #2cda1d;
+    /* background-color: #2cda1d;
      border: 1px solid #000;
-     margin: 8px 0px 8px 0px ;
+     margin: 8px 0px 8px 0px ;*/
      
 }
 .pg{
