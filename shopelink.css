@@ -6,6 +6,7 @@
     width: 200px;   
     margin-top: -148px;
     margin-left: 790px;
+   
 }
 #shopee{
     text-decoration: none;
@@ -17,10 +18,10 @@
     background-size: cover;
    width: 196px;
    height: 160px
-   
+  
 }
 #contato{
-    /*background-color: #385998;*/
+  /*  background-color: #385998;*/
     color: #f15245;
     margin-left: -30px;
     width: 300px;
