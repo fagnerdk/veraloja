@@ -1,0 +1,48 @@
+.img_map{
+ background-color: rgb(43, 144, 226);
+  width: 60px;
+  height: 60px;
+ border-radius: 50px;
+ /* background-image: url("Captura\ de\ tela\ 2022-11-13\ 101003.png");*/
+  text-decoration: none;
+  border: 1px solid rgb(0, 132, 255);
+  margin-left: 1200px;
+  margin-top: -60px;
+}
+.imgmp{
+ /* background-color: black;*/
+  width: 60px;
+   height: 60px;
+  
+  margin-top: -1px;
+   border-radius: 1000px;
+   text-decoration: none;
+}
+.img_map:hover{
+ background-color: bisque;
+}
+@media (max-width:1000px){
+  .img_map{
+    background-color: rgb(43, 144, 226);
+     width: 60px;
+     height: 60px;
+    border-radius: 50px;
+    /* background-image: url("Captura\ de\ tela\ 2022-11-13\ 101003.png");*/
+     text-decoration: none;
+     border: 1px solid rgb(0, 132, 255);
+     margin-left: 100px;
+     margin-top: 0px;
+   }
+   .imgmp{
+    /* background-color: black;*/
+     width: 60px;
+      height: 60px;
+     
+     margin-top: -1px;
+      border-radius: 1000px;
+      text-decoration: none;
+   }
+   .img_map:hover{
+    background-color: bisque;
+   }
+}
