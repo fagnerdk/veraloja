@@ -1,5 +1,5 @@
-var rs = 20;
 
+ var rs  = 20;
 const numero = ['a','b','c','d','f','g','h','i','g','l'];
 
  numero[0] = rs;
@@ -15,3 +15,8 @@ const numero = ['a','b','c','d','f','g','h','i','g','l'];
 
 
  export default numero;
+
+
+
+
+ 
