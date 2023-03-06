@@ -673,7 +673,7 @@ footer{
    /* background-color: #d92e7f;  tira*/
     margin: 8px 0px 8px 0px ;
 }
-.btn{
+#btn{
     background-color: aqua;
     border-radius: 8px;
     padding: 3px;

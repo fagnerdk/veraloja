@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fagnerdk/veraloja/issues"
   },
-  "homepage": "https://github.com/fagnerdk/veraloja#readme"
+  "homepage": "https://github.com/fagnerdk/veraloja#readme",
+  "dependencies": {
+    "mysql2": "^3.1.0"
+  }
 }

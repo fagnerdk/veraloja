@@ -70,7 +70,7 @@ document.getElementById("fota2").src = pga2;
 
 
 
-
+console.log('ok')
 
 
 
