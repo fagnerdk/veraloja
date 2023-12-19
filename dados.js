@@ -26,11 +26,11 @@ pgl9 = ["a1","b2","c3"]
 // id
 const idpga0a1 = 20 ;
 const id_pga0a1 = pga0[0]= "idpga0a1:" ;
-console.log(id_pga0a1);
+
 
 
 //const rs = document.getElementsByClassName("RS")[0].innerHTML = "R$";
-//var produto = document.getElementById("vt").innerHTML =idpga0a1;
+//const produto = document.getElementById("vt").innerHTML =idpga0a1;
  
 // ide do produto pagina1
 var pg1 = document.getElementById("pg1-a1");
@@ -53,7 +53,7 @@ if (x  >idpga0a1){
   else{
     document.getElementById("preço").innerHTML = 'digite';
     alert('Ola por favo  digite a quantidade ou volte au inicio')
-    console.log("aaaaa")
+    
   }
   
  
@@ -62,7 +62,7 @@ if (x  >idpga0a1){
 };
 
 
-// anucio
+//anucio
 var pga1 = '../dados do zs/KWAI.jpg';
 document.getElementById("fota1").src = pga1;
 var pga2= pga1;
@@ -71,7 +71,6 @@ document.getElementById("fota2").src = pga2;
 
 
 console.log('ok')
-
 
 
 

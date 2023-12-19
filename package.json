@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fagnerdk/veraloja#readme",
   "dependencies": {
+    "mongodb": "^6.2.0",
     "mysql2": "^3.1.0"
   }
 }
