@@ -33,11 +33,12 @@ const id_pga0a1 = pga0[0]= "idpga0a1:" ;
 //const produto = document.getElementById("vt").innerHTML =idpga0a1;
  
 // ide do produto pagina1
-var pg1 = document.getElementById("pg1-a1");
+var pg1 = document.getElementById("pg1-a1"); 
 // pg1 =pga0[1];
 
 
  function myFunction(){
+  
 var nume = document.getElementById("QTD").value;
 //var valo = produto ;
 var x =  nume * idpga0a1  ;
@@ -63,6 +64,7 @@ if (x  >idpga0a1){
 
 
 //anucio
+
 var pga1 = '../dados do zs/KWAI.jpg';
 document.getElementById("fota1").src = pga1;
 var pga2= pga1;

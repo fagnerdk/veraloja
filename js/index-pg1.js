@@ -1,7 +1,7 @@
 
 var pagina1=['a','b','c','d','f','g','h','i','g','l'];
 var pga0 = ["ptu0","ptu1","ptu2","ptu3","ptu4","ptu5","ptu6","ptu7","ptu8","ptu9"]
-pga0[0]=0
+pga0[0]=8
 pga0[1]=1
 pga0[2]=2
 pga0[3]=3
